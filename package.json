@@ -20,7 +20,7 @@
   "homepage": "https://github.com/yaelBrown/NodeJSONwebTokens#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1"
+    "jsonwebtoken": "^9.0.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
